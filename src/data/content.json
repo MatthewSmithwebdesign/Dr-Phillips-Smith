@@ -1,15 +1,15 @@
 {
   "profile": {
-    "name": "Dr. [Your Wife's Name]",
-    "title": "Associate Professor",
-    "institution": "Department of [Her Field]",
+    "name": "Dr. Halima Phillips-Smith",
+    "title": "",
+    "institution": "Department of ",
     "tagline": "Dedicated to advancing research in [her research area]",
-    "email": "her.email@university.edu",
-    "bio": "Write her full bio here. Tell visitors about her journey, research passion, and what makes her work special. This can be a few sentences or a paragraph.",
+    "email": "halima.p.smith@gmail.com",
+    "bio": "",
     "education": [
-      { "degree": "PhD in [Field]", "institution": "[University Name]", "year": "2018" },
-      { "degree": "MA in [Field]", "institution": "[University Name]", "year": "2014" },
-      { "degree": "BA in [Field]", "institution": "[University Name]", "year": "2012" }
+      { "degree": "PhD in Emergency Management", "institution": "Capella University", "year": "2025" },
+      { "degree": "MS in Homeland Security and Emergency Management", "institution": "National University", "year": "2017" },
+      { "degree": "BA in Business Administration", "institution": "National University", "year": "2015" }
     ],
     "heroImage": "/images/hero.jpg",
     "researchInterests": ["Interest 1", "Interest 2", "Interest 3"]
@@ -55,6 +55,6 @@
   "settings": {
     "siteUrl": "https://her-domain.vercel.app",
     "twitter": "https://x.com/herhandle",
-    "linkedin": "https://linkedin.com/in/herprofile"
+    "linkedin": "https://www.linkedin.com/in/halimaphillipssmith/"
   }
 }
