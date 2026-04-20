@@ -1,0 +1,60 @@
+{
+  "profile": {
+    "name": "Dr. [Your Wife's Name]",
+    "title": "Associate Professor",
+    "institution": "Department of [Her Field]",
+    "tagline": "Dedicated to advancing research in [her research area]",
+    "email": "her.email@university.edu",
+    "bio": "Write her full bio here. Tell visitors about her journey, research passion, and what makes her work special. This can be a few sentences or a paragraph.",
+    "education": [
+      { "degree": "PhD in [Field]", "institution": "[University Name]", "year": "2018" },
+      { "degree": "MA in [Field]", "institution": "[University Name]", "year": "2014" },
+      { "degree": "BA in [Field]", "institution": "[University Name]", "year": "2012" }
+    ],
+    "heroImage": "/images/hero.jpg",
+    "researchInterests": ["Interest 1", "Interest 2", "Interest 3"]
+  },
+  "community": [
+    {
+      "id": 1,
+      "title": "Community Project Title",
+      "description": "Describe what she did for the community",
+      "image": "/images/community-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Another Project",
+      "description": "Another community activity",
+      "image": "/images/community-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Third Project",
+      "description": "More community work",
+      "image": "/images/community-3.jpg"
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Publication Title (Paper Name)",
+      "journal": "Journal Name",
+      "year": "2024",
+      "abstract": "Brief abstract of what the paper is about...",
+      "url": "https://doi.org/..."
+    },
+    {
+      "id": 2,
+      "title": "Second Publication",
+      "journal": "Another Journal",
+      "year": "2023",
+      "abstract": "Another abstract...",
+      "url": "https://doi.org/..."
+    }
+  ],
+  "settings": {
+    "siteUrl": "https://her-domain.vercel.app",
+    "twitter": "https://x.com/herhandle",
+    "linkedin": "https://linkedin.com/in/herprofile"
+  }
+}

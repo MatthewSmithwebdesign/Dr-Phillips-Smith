@@ -1,0 +1,113 @@
+.contact {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.contact .section-title {
+  color: var(--color-secondary);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+
+.emailCard {
+  text-align: center;
+  max-width: 500px;
+  padding: 3rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.iconWrapper {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 1.5rem;
+  background-color: var(--color-accent);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.iconWrapper svg {
+  width: 28px;
+  height: 28px;
+  color: white;
+}
+
+.emailCard h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: white;
+}
+
+.emailCard p {
+  margin-bottom: 1.5rem;
+  opacity: 0.8;
+}
+
+.emailLink {
+  display: inline-block;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  padding: 0.75rem 1.5rem;
+  background-color: rgba(201, 169, 89, 0.1);
+  border-radius: 4px;
+  transition: var(--transition-base);
+}
+
+.emailLink:hover {
+  background-color: var(--color-accent);
+  color: white;
+}
+
+.links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.socialLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  color: var(--color-secondary);
+  font-weight: 500;
+  transition: var(--transition-base);
+}
+
+.socialLink svg {
+  width: 20px;
+  height: 20px;
+}
+
+.socialLink:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 1.5rem;
+  }
+
+  .emailCard {
+    padding: 2rem;
+  }
+}
