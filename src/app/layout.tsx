@@ -19,7 +19,7 @@ export default function RootLayout({
       <body>
         <Header name={content.profile.name} />
         <main>{children}</main>
-        <Footer />
+        <Footer name={content.profile.name} />
       </body>
     </html>
   );

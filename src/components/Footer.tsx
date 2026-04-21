@@ -1,9 +1,13 @@
 import styles from './Footer.module.css';
 
-export default function Footer() {
+interface FooterProps {
+  name?: string;
+}
+
+export default function Footer({ name = "Dr. Halima Phillips-Smith" }: FooterProps) {
   return (
     <footer className={styles.footer}>
-      <p>&copy; {new Date().getFullYear()} Dr. LastName. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} {name}. All rights reserved.</p>
     </footer>
   );
 }
