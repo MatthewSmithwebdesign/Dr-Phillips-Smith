@@ -9,6 +9,183 @@
       { "degree": "MS in Homeland Security and Emergency Management", "institution": "National University", "year": "2017" },
       { "degree": "BA in Business Administration", "institution": "National University", "year": "2015" }
     ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "Working More Effectively with Different Personalities",
+        "issuer": "LinkedIn",
+        "year": "2023",
+        "credentialId": ""
+      },
+      {
+        "id": 2,
+        "name": "Managing Project Risks and Changes",
+        "issuer": "Coursera",
+        "year": "2023",
+        "credentialId": "YS6DWMWYHM2W"
+      },
+      {
+        "id": 3,
+        "name": "Learners",
+        "issuer": "CITI Program",
+        "year": "2022",
+        "credentialId": "50231548",
+        "expires": "Jul 2024"
+      },
+      {
+        "id": 4,
+        "name": "Emergency Operations Center Management G-775",
+        "issuer": "California Specialized Training Institute",
+        "year": "2022",
+        "skills": ["Disaster Response"]
+      },
+      {
+        "id": 5,
+        "name": "ICS-400",
+        "issuer": "FEMA",
+        "year": "2022"
+      },
+      {
+        "id": 6,
+        "name": "ICS-300",
+        "issuer": "FEMA",
+        "year": "2022"
+      },
+      {
+        "id": 7,
+        "name": "International Association of Emergency Managers Member",
+        "issuer": "IAEM",
+        "year": ""
+      },
+      {
+        "id": 8,
+        "name": "FEMA NIMS Certification",
+        "issuer": "FEMA",
+        "year": ""
+      },
+      {
+        "id": 9,
+        "name": "IS-00029",
+        "issuer": "FEMA",
+        "year": "2015"
+      },
+      {
+        "id": 10,
+        "name": "IS-00021.16",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 11,
+        "name": "IS-00821.a",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 12,
+        "name": "IS-00860.c",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 13,
+        "name": "IS-00921",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 14,
+        "name": "IS-00800.b",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 15,
+        "name": "IS-00700.a",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 16,
+        "name": "IS-02900",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 17,
+        "name": "IS-00559",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 18,
+        "name": "IS-00634",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 19,
+        "name": "IS-00403",
+        "issuer": "FEMA",
+        "year": "2016"
+      },
+      {
+        "id": 20,
+        "name": "IS-00100.b",
+        "issuer": "FEMA",
+        "year": "2017"
+      },
+      {
+        "id": 21,
+        "name": "IS-00200.b",
+        "issuer": "FEMA",
+        "year": "2017"
+      },
+      {
+        "id": 22,
+        "name": "IS-00230.d",
+        "issuer": "FEMA",
+        "year": "2017"
+      },
+      {
+        "id": 23,
+        "name": "IS-00546",
+        "issuer": "FEMA",
+        "year": "2019"
+      },
+      {
+        "id": 24,
+        "name": "IS-706: NIMS Intrastate Mutual Aid",
+        "issuer": "FEMA",
+        "year": "2024",
+        "skills": ["NIMS", "Mutual Aid"]
+      },
+      {
+        "id": 25,
+        "name": "IS-368.a: Including People With Disabilities",
+        "issuer": "FEMA",
+        "year": "2024",
+        "skills": ["AFN", "Disaster Planning"]
+      },
+      {
+        "id": 26,
+        "name": "IS-42.a: Social Media in Emergency Management",
+        "issuer": "FEMA",
+        "year": "2024"
+      },
+      {
+        "id": 27,
+        "name": "IS-103: Geospatial Information Systems",
+        "issuer": "FEMA",
+        "year": "2024"
+      },
+      {
+        "id": 28,
+        "name": "Public Works and Disaster Recovery",
+        "issuer": "FEMA",
+        "credentialId": "IS-558"
+      }
+    ],
     "heroImage": "/images/hero.jpg",
     "researchInterests": ["Interest 1", "Interest 2", "Interest 3"]
   },

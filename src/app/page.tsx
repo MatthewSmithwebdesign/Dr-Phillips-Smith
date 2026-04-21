@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import About from "@/components/About";
+import Certifications from "@/components/Certifications";
 import Community from "@/components/Community";
 import Publications from "@/components/Publications";
 import Contact from "@/components/Contact";
@@ -12,6 +13,7 @@ export default function Home() {
     <>
       <Hero profile={profile} />
       <About profile={profile} />
+      <Certifications certifications={profile.certifications || []} />
       <Community items={community} />
       <Publications publications={publications} />
       <Contact settings={{ ...settings, email: profile.email }} />

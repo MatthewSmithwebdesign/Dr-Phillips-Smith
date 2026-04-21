@@ -1,0 +1,65 @@
+.certifications {
+  background-color: var(--color-background);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.card {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: var(--shadow-card);
+  border-left: 4px solid var(--color-accent);
+}
+
+.name {
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-primary);
+}
+
+.issuer {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-light-accent);
+  margin-bottom: 0.25rem;
+}
+
+.credential {
+  font-size: 0.8rem;
+  color: var(--color-light-accent);
+  margin-bottom: 0.25rem;
+}
+
+.year {
+  font-size: 0.875rem;
+  color: var(--color-accent);
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    padding: 0 1.5rem;
+  }
+}
