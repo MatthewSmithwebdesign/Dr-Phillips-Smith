@@ -1,11 +1,9 @@
 {
   "profile": {
     "name": "Dr. Halima Phillips-Smith",
-    "title": "",
-    "institution": "Department of ",
-    "tagline": "Dedicated to advancing research in [her research area]",
+    "tagline": "Connecting disaster science to frontline action: Advancing research in emergency preparedness.",
     "email": "halima.p.smith@gmail.com",
-    "bio": "",
+    "bio": "Super well thought out bio here",
     "education": [
       { "degree": "PhD in Emergency Management", "institution": "Capella University", "year": "2025" },
       { "degree": "MS in Homeland Security and Emergency Management", "institution": "National University", "year": "2017" },
