@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Dr. [Name] - Academic Portfolio",
+  title: "Dr. Halima Phillips-Smith - Academic Portfolio",
   description: "Academic portfolio showcasing research, publications, and community work",
 };
 
