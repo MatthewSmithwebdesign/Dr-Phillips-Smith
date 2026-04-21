@@ -6,6 +6,7 @@ interface Profile {
   title?: string;
   institution?: string;
   tagline?: string;
+  heroImage?: string;
 }
 
 export default function Hero({ profile }: { profile: Profile }) {
@@ -33,7 +34,7 @@ export default function Hero({ profile }: { profile: Profile }) {
         <div className={styles.imageContainer}>
           <div className={styles.imageWrapper}>
             <Image
-              src="/images/hero.jpg"
+              src={profile.heroImage || '/images/halima-hero.jpeg'}
               alt={profile.name}
               width={400}
               height={500}
