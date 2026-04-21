@@ -3,9 +3,9 @@ import styles from './Hero.module.css';
 
 interface Profile {
   name: string;
-  title: string;
-  institution: string;
-  tagline: string;
+  title?: string;
+  institution?: string;
+  tagline?: string;
 }
 
 export default function Hero({ profile }: { profile: Profile }) {
@@ -15,9 +15,11 @@ export default function Hero({ profile }: { profile: Profile }) {
         <div className={styles.content}>
           <h1 className={styles.greeting}>Hello, I&apos;m</h1>
           <h1 className={styles.name}>{profile.name}</h1>
-          <p className={styles.title}>
-            {profile.title} &bull; {profile.institution}
-          </p>
+          {(profile.title || profile.institution) && (
+            <p className={styles.title}>
+              {profile.title}{profile.title && profile.institution && ' • '}{profile.institution}
+            </p>
+          )}
           <p className={styles.tagline}>{profile.tagline}</p>
           <div className={styles.buttons}>
             <a href="#publications" className="btn btn-primary">

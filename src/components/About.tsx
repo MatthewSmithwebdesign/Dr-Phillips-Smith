@@ -12,7 +12,10 @@ interface Profile {
   bio: string;
   education: Education[];
   researchInterests: string[];
-  heroImage: string;
+  heroImage?: string;
+  title?: string;
+  institution?: string;
+  tagline?: string;
 }
 
 export default function About({ profile }: { profile: Profile }) {
