@@ -2,12 +2,12 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Certifications from "@/components/Certifications";
 import Community from "@/components/Community";
-import Publications from "@/components/Publications";
+// import Publications from "@/components/Publications";
 import Contact from "@/components/Contact";
 import content from "@/data/content.json";
 
 export default function Home() {
-  const { profile, community, publications, settings } = content;
+  const { profile, community, settings } = content;
 
   return (
     <>
@@ -15,7 +15,7 @@ export default function Home() {
       <About profile={profile} />
       <Certifications certifications={profile.certifications || []} />
       <Community items={community} />
-      <Publications publications={publications} />
+      {/* <Publications publications={publications} /> */}
       <Contact settings={{ ...settings, email: profile.email }} />
     </>
   );
