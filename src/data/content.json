@@ -10,181 +10,61 @@
       { "degree": "BA in Business Administration", "institution": "National University", "year": "2015" }
     ],
     "certifications": [
-      {
-        "id": 1,
-        "name": "Working More Effectively with Different Personalities",
-        "issuer": "LinkedIn",
-        "year": "2023",
-        "credentialId": ""
-      },
-      {
-        "id": 2,
-        "name": "Managing Project Risks and Changes",
-        "issuer": "Coursera",
-        "year": "2023",
-        "credentialId": "YS6DWMWYHM2W"
-      },
-      {
-        "id": 3,
-        "name": "Learners",
-        "issuer": "CITI Program",
-        "year": "2022",
-        "credentialId": "50231548",
-        "expires": "Jul 2024"
-      },
-      {
-        "id": 4,
-        "name": "Emergency Operations Center Management G-775",
-        "issuer": "California Specialized Training Institute",
-        "year": "2022",
-        "skills": ["Disaster Response"]
-      },
-      {
-        "id": 5,
-        "name": "ICS-400",
-        "issuer": "FEMA",
-        "year": "2022"
-      },
-      {
-        "id": 6,
-        "name": "ICS-300",
-        "issuer": "FEMA",
-        "year": "2022"
-      },
-      {
-        "id": 7,
-        "name": "International Association of Emergency Managers Member",
-        "issuer": "IAEM",
-        "year": ""
-      },
-      {
-        "id": 8,
-        "name": "FEMA NIMS Certification",
-        "issuer": "FEMA",
-        "year": ""
-      },
-      {
-        "id": 9,
-        "name": "IS-00029",
-        "issuer": "FEMA",
-        "year": "2015"
-      },
-      {
-        "id": 10,
-        "name": "IS-00021.16",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 11,
-        "name": "IS-00821.a",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 12,
-        "name": "IS-00860.c",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 13,
-        "name": "IS-00921",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 14,
-        "name": "IS-00800.b",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 15,
-        "name": "IS-00700.a",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 16,
-        "name": "IS-02900",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 17,
-        "name": "IS-00559",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 18,
-        "name": "IS-00634",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 19,
-        "name": "IS-00403",
-        "issuer": "FEMA",
-        "year": "2016"
-      },
-      {
-        "id": 20,
-        "name": "IS-00100.b",
-        "issuer": "FEMA",
-        "year": "2017"
-      },
-      {
-        "id": 21,
-        "name": "IS-00200.b",
-        "issuer": "FEMA",
-        "year": "2017"
-      },
-      {
-        "id": 22,
-        "name": "IS-00230.d",
-        "issuer": "FEMA",
-        "year": "2017"
-      },
-      {
-        "id": 23,
-        "name": "IS-00546",
-        "issuer": "FEMA",
-        "year": "2019"
-      },
-      {
-        "id": 24,
-        "name": "IS-706: NIMS Intrastate Mutual Aid",
-        "issuer": "FEMA",
-        "year": "2024",
-        "skills": ["NIMS", "Mutual Aid"]
-      },
-      {
-        "id": 25,
-        "name": "IS-368.a: Including People With Disabilities",
-        "issuer": "FEMA",
-        "year": "2024",
-        "skills": ["AFN", "Disaster Planning"]
-      },
-      {
-        "id": 26,
-        "name": "IS-42.a: Social Media in Emergency Management",
-        "issuer": "FEMA",
-        "year": "2024"
-      },
-      {
-        "id": 27,
-        "name": "IS-103: Geospatial Information Systems",
-        "issuer": "FEMA",
-        "year": "2024"
-      },
-      {
-        "id": 28,
-        "name": "Public Works and Disaster Recovery",
-        "issuer": "FEMA",
-        "credentialId": "IS-558"
-      }
+      { "id": 1, "name": "Emergency Management Concepts (Field Ops Staff)", "issuer": "FEMA", "year": "2025" },
+      { "id": 2, "name": "Intermediate Accessibility Certification", "issuer": "", "year": "2025" },
+      { "id": 3, "name": "G235: Emergency Planning", "issuer": "FEMA", "year": "2025" },
+      { "id": 4, "name": "IS-558: Public Works and Disaster Recovery", "issuer": "FEMA", "year": "2024" },
+      { "id": 5, "name": "G611F: EOC Section Specific/Position Training: Finance and Admin", "issuer": "FEMA", "year": "2024" },
+      { "id": 6, "name": "Beginner Accessibility Certification: PDF Training", "issuer": "", "year": "2024" },
+      { "id": 7, "name": "G611P: EOC Section Specific/Position Training: Planning and Intel", "issuer": "FEMA", "year": "2024" },
+      { "id": 8, "name": "Microsoft SharePoint Advanced", "issuer": "Microsoft", "year": "2024" },
+      { "id": 9, "name": "Microsoft SharePoint Fundamentals", "issuer": "Microsoft", "year": "2024" },
+      { "id": 10, "name": "Beginner Accessibility Certification: Excel Training", "issuer": "", "year": "2024" },
+      { "id": 11, "name": "G611L: EOC Section Specific/Position Training: Logistics", "issuer": "FEMA", "year": "2024" },
+      { "id": 12, "name": "G611O: EOC Section Specific/Position Training: Operations", "issuer": "FEMA", "year": "2024" },
+      { "id": 13, "name": "G611M: EOC Section Specific/Position Training: Management", "issuer": "FEMA", "year": "2024" },
+      { "id": 14, "name": "Beginner Accessibility Certification: Word Training", "issuer": "", "year": "2024" },
+      { "id": 15, "name": "IS-42.A: Social Media in Emergency Management", "issuer": "FEMA", "year": "2024" },
+      { "id": 16, "name": "IS-103: Geospatial Information Systems Specialist", "issuer": "FEMA", "year": "2024" },
+      { "id": 17, "name": "IS-706: NIMS Intrastate Mutual Aid", "issuer": "FEMA", "year": "2024" },
+      { "id": 18, "name": "IS-368: Including People With Disabilities", "issuer": "FEMA", "year": "2024" },
+      { "id": 19, "name": "IS-556: Damage Assessment for Public Works", "issuer": "FEMA", "year": "2024" },
+      { "id": 20, "name": "IS-554: Emergency Planning for Public Works", "issuer": "FEMA", "year": "2024" },
+      { "id": 21, "name": "IS-632.A: Introduction to Debris Operations", "issuer": "FEMA", "year": "2024" },
+      { "id": 22, "name": "IS-10: Animals in Disasters", "issuer": "FEMA", "year": "2024" },
+      { "id": 23, "name": "IS-111: Livestock in Disasters", "issuer": "FEMA", "year": "2024" },
+      { "id": 24, "name": "IS-366: Planning for the Needs of Children in Disasters", "issuer": "FEMA", "year": "2024" },
+      { "id": 25, "name": "G418: Mass Care/Emergency Assistance Planning and Operations", "issuer": "FEMA", "year": "2024" },
+      { "id": 26, "name": "G205: Recovery from Disasters", "issuer": "FEMA", "year": "2024" },
+      { "id": 27, "name": "G197: Integrating Access & Functional Needs", "issuer": "FEMA", "year": "2024" },
+      { "id": 28, "name": "IS-406: Operating a Shelter", "issuer": "FEMA", "year": "2024" },
+      { "id": 29, "name": "Just-In-Time Training", "issuer": "", "year": "2024" },
+      { "id": 30, "name": "G557: Rapid Assessment Workshop", "issuer": "FEMA", "year": "2024" },
+      { "id": 31, "name": "G393: Mitigation for Emergency Managers", "issuer": "FEMA", "year": "2024" },
+      { "id": 32, "name": "IS-120.C: Introduction to Exercises", "issuer": "FEMA", "year": "2023" },
+      { "id": 33, "name": "G191: ICS/EOC Interface", "issuer": "FEMA", "year": "2022" },
+      { "id": 34, "name": "G775: EOC Management and Operations", "issuer": "FEMA", "year": "2022" },
+      { "id": 35, "name": "IS-703.B: NIMS Resource Management", "issuer": "FEMA", "year": "2022" },
+      { "id": 36, "name": "ICS400: Advanced ICS", "issuer": "FEMA", "year": "2022" },
+      { "id": 37, "name": "ICS300: Intermediate ICS", "issuer": "FEMA", "year": "2022" },
+      { "id": 38, "name": "G606: SEMS Introductory Course", "issuer": "FEMA", "year": "2021" },
+      { "id": 39, "name": "IS-288: Role of Voluntary Organizations", "issuer": "FEMA", "year": "2021" },
+      { "id": 40, "name": "IS-241: Decision Making and Problem Solving", "issuer": "FEMA", "year": "2021" },
+      { "id": 41, "name": "IS-235C: Emergency Planning", "issuer": "FEMA", "year": "2020" },
+      { "id": 42, "name": "IS-240: Leadership and Influence", "issuer": "FEMA", "year": "2020" },
+      { "id": 43, "name": "IS-244B: Developing and Managing Volunteers", "issuer": "FEMA", "year": "2020" },
+      { "id": 44, "name": "IS-242: Effective Communication", "issuer": "FEMA", "year": "2020" },
+      { "id": 45, "name": "IS-100C: Introduction to ICS", "issuer": "FEMA", "year": "2019" },
+      { "id": 46, "name": "IS-230.E: Fundamentals of Emergency Management", "issuer": "FEMA", "year": "2017" },
+      { "id": 47, "name": "IS-200C: Basic ICS for Initial Response", "issuer": "FEMA", "year": "2017" },
+      { "id": 48, "name": "IS-403: Introduction to Individual Assistance", "issuer": "FEMA", "year": "2016" },
+      { "id": 49, "name": "IS-559: Local Damage Assessment", "issuer": "FEMA", "year": "2016" },
+      { "id": 50, "name": "IS-405: Overview of Mass Care/Emergency Assistance", "issuer": "FEMA", "year": "2024" },
+      { "id": 51, "name": "IS-2200: Basic Emergency Operations Center Functions", "issuer": "FEMA", "year": "2024" },
+      { "id": 52, "name": "IS-2900: National Disaster Recovery Framework", "issuer": "FEMA", "year": "2016" },
+      { "id": 53, "name": "IS-800D: National Response Framework", "issuer": "FEMA", "year": "2016" },
+      { "id": 54, "name": "IS-29: Public Information Officer Awareness", "issuer": "FEMA", "year": "2015" },
+{ "id": 55, "name": "IS-700: NIMS", "issuer": "FEMA", "year": "2015" }
     ],
     "heroImage": "/images/halima-hero.jpeg",
     "researchInterests": ["Interest 1", "Interest 2", "Interest 3"]
