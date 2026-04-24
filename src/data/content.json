@@ -87,21 +87,9 @@
   "community": [
     {
       "id": 1,
-      "title": "Community Project Title",
-      "description": "Describe what she did for the community",
-      "image": "/images/community-1.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Another Project",
-      "description": "Another community activity",
-      "image": "/images/community-2.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Third Project",
-      "description": "More community work",
-      "image": "/images/community-3.jpg"
+      "title": "2024 San Diego Flooding Response",
+      "description": "In response to San Diego's historic 2024 flooding, which displaced over 1,200 people and caused widespread damage to homes, Dr. Phillips-Smith worked in the Disaster Recovery Center (DRC), directly assisting impacted residents with navigating recovery resources and support services.",
+      "image": "/images/2024-flood.jpeg"
     }
   ],
   "publications": [
