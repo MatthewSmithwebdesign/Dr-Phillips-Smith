@@ -9,7 +9,7 @@ interface Education {
 
 interface Profile {
   name: string;
-  bio: string;
+  bio: string | string[];
   education: Education[];
   researchInterests: string[];
   heroImage?: string;
@@ -37,7 +37,13 @@ export default function About({ profile }: { profile: Profile }) {
           </div>
           
           <div className={styles.bioSection}>
-            <p className={styles.bio}>{profile.bio}</p>
+            {Array.isArray(profile.bio) ? (
+              profile.bio.map((paragraph, i) => (
+                <p key={i} className={styles.bio}>{paragraph}</p>
+              ))
+            ) : (
+              <p className={styles.bio}>{profile.bio}</p>
+            )}
             
             <div className={styles.education}>
               <h3>Education</h3>
