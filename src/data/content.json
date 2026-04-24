@@ -10,7 +10,14 @@
       { "degree": "BA in Business Administration", "institution": "National University", "year": "2015" }
     ],
     "certifications": [
-      { "id": 1, "name": "Emergency Management Concepts (Field Ops Staff)", "issuer": "FEMA", "year": "2025" },
+      { "id": 1, "name": "Working More Effectively with Different Personalities", "issuer": "LinkedIn", "year": "2023" },
+      { "id": 2, "name": "Managing Project Risks and Changes", "issuer": "Coursera", "year": "2023", "credentialId": "YS6DWMWYHM2W" },
+      { "id": 3, "name": "Learners", "issuer": "CITI Program", "year": "2022", "credentialId": "50231548" },
+      { "id": 4, "name": "Emergency Operations Center Management G-775", "issuer": "California Specialized Training Institute", "year": "2022" },
+      { "id": 5, "name": "ICS-400", "issuer": "FEMA", "year": "2022" },
+      { "id": 6, "name": "ICS-300", "issuer": "FEMA", "year": "2022" },
+      { "id": 7, "name": "International Association of Emergency Managers Member", "issuer": "IAEM", "year": "" },
+      { "id": 8, "name": "Emergency Management Concepts (Field Ops Staff)", "issuer": "FEMA", "year": "2025" },
       { "id": 2, "name": "Intermediate Accessibility Certification", "issuer": "", "year": "2025" },
       { "id": 3, "name": "G235: Emergency Planning", "issuer": "FEMA", "year": "2025" },
       { "id": 4, "name": "IS-558: Public Works and Disaster Recovery", "issuer": "FEMA", "year": "2024" },
